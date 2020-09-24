@@ -1,5 +1,5 @@
 # WEBSITE INFORMASI PARIWISATA KEBUN BINATANG
-##### Oleh : 
+## Dibuat oleh : 
 ##### - Jody Setiawan (535180064), 
 ##### - Bryan Albert (535180088), 
 ##### - Gregorius Andrew Winata (535180091). 
