@@ -5,7 +5,7 @@
 ##### - Gregorius Andrew Winata (535180091). 
 ## 5W1H
 ##### 1. Who is the audience?
-Calon dan pengunjung kebun binatang.
+Calon dan pengunjung kebun binatang "BRISURS".
 ##### 2. What is the program?
 Website yang dapat menampilkan informasi mengenai isi, jadwal operasional, dan kegiatan yang dapat dilakukan di kebun binatang "BRISURS".
 ##### 3. When will it end?
