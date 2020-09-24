@@ -1,9 +1,8 @@
 # WEBSITE INFORMASI PARIWISATA KEBUN BINATANG
-### Oleh : 
-### - Jody Setiawan (535180064), 
-### - Bryan Albert (535180088), 
-### - Gregorius Andrew Winata (535180091). 
------
+##### Oleh : 
+##### - Jody Setiawan (535180064), 
+##### - Bryan Albert (535180088), 
+##### - Gregorius Andrew Winata (535180091). 
 ## 5W1H
 ##### 1. Who is the audience?
 Calon dan pengunjung kebun binatang.
